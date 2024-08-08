@@ -13,8 +13,8 @@ My name is **John G. Amachi Cielo**, and I am passionate about technology, parti
 
 ### I am proficient in the following technologies:
 
-- 👨‍💼**Data Science**: NumPy, SciPy, SQL, scikit-learn
-- 🤖**AI**: TensorFlow, PyTorch, Keras, ROS2
+- 👨‍💼**Data Science**: Pandas, NumPy, SciPy, SymPy, SQL, Scikit-Learn
+- 🤖**AI**: TensorFlow, PyTorch, Keras, OpenCV, ROS2
 - ☁**Cloud Architecture**: Cloud computing and architecture in *Azure* and fundamentals in *AWS*, *Databricks*
 - 🐘**Data Engineering**: Kafka, Hadoop, Spark
 
