@@ -14,9 +14,9 @@ My name is **John G. Amachi Cielo**, and I am passionate about technology, parti
 ### I am proficient in the following technologies:
 
 - 👨‍💼**Data Science**: NumPy, SciPy, SQL, scikit-learn
-- 🤖**AI**: TensorFlow, PyTorch, Keras
-- ☁**Cloud Architecture**: Cloud computing and architecture in *Azure* and fundamentals in *AWS*
-- 🐘**Data Engineering**: Apache, ROS2
+- 🤖**AI**: TensorFlow, PyTorch, Keras, ROS2
+- ☁**Cloud Architecture**: Cloud computing and architecture in *Azure* and fundamentals in *AWS* and Databricks
+- 🐘**Data Engineering**: Kafka, Hadoop, Spark
 
 #### In my free time, I am deeply passionate about:
 - 🗺🛫 I am passionate about **traveling** and immersing myself in different cultures, often spending months in each destination. I have lived in the United States, Germany, Estonia, France, and England. Additionally, I have visited many other places for shorter periods, such as Mexico, Romania, and the Netherlands, among others. If you are planning an adventure, let me know, and I would love to join! 😎
