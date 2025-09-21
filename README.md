@@ -15,7 +15,7 @@ I am currently completing my distance studies in Data Science while working in I
 
 - 👨‍💼**Data Science**: Pandas, NumPy, SciPy, SymPy, SQL, Scikit-Learn
 - 🤖**AI**: TensorFlow, PyTorch, Keras, OpenCV, ROS2
-- ☁**Cloud Architecture**: Cloud computing and *Architecture in Azure* and fundamentals in *AWS*, *Databricks*, *Terraform*
+- ☁**Cloud Architecture**: *Architecture in Azure*, *AWS*, *Databricks*, *Terraform*
 - 🐘**Data Engineering**: Kafka, Hadoop, Spark
 
 #### 🌍 Outside of Work:
