@@ -21,7 +21,7 @@ I am currently completing my distance studies in Data Science while working in I
 #### 🌍 Outside of Work:
 When I'm not working with data and technology, I thrive on exploring the world, engaging in sports, and spending time in nature:
 
-- 🗺 Travel Enthusiast: I love immersing myself in new cultures and have lived in the U.S., Germany, Estonia, France, and England, while visiting countless other destinations like Mexico, Romania, Netherlands... Planning an adventure? Let me know—I’d love to join!
+- 🗺 Travel Enthusiast: I love immersing myself in new cultures and have lived in Netherlands (currently), the U.S., Germany, Estonia, France, and England, while visiting countless other destinations like Mexico, Romania... Planning an adventure? Let me know—I’d love to join!
 - 🚴 Sports & Fitness: Whether cycling, practicing yoga, or trying a new sport, I approach every activity with enthusiasm and an open mind.
 - 🌳 Nature & Animals: I find peace in the countryside and enjoy caring for plants and animals.
 
