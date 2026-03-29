@@ -4,27 +4,54 @@
 - 🌱 I’m currently learning ...
 -->
 
-# 👋 Greetings, everyone!
-I'm John G. Amachi Cielo, a passionate technology enthusiast currently seeking exciting new job opportunities in the fields of Big Data, Data Science, and AI.
+# 👋 Hi, I’m John G. Amachi Cielo  
+**Data & Machine Learning Engineer | Azure Certified**
 
-## 🧘‍♂️ About Me
+I design and build scalable data and machine learning systems focused on real-world impact.  
+My work covers the full lifecycle: data pipelines, model development, deployment, and monitoring in cloud environments.
 
-I am currently completing my distance studies in Data Science while working in IT administration, structuring, and management at a small company. My passion lies in uncovering insights from data and building scalable solutions to solve real-world problems.
+---
 
-### 🔧 Technologies & Skills:
+## 🚀 What I Do
+- Build end-to-end ML systems (from data ingestion to deployment)
+- Develop scalable data pipelines and ETL workflows
+- Apply MLOps practices for production-ready models
+- Design cloud-native solutions on Azure
 
-- 👨‍💼**Data Science**: Pandas, NumPy, SciPy, SymPy, SQL, Scikit-Learn
-- 🤖**AI**: TensorFlow, PyTorch, Keras, OpenCV, ROS2
-- ☁**Cloud Architecture**: *Architecture in Azure*, *AWS*, *Databricks*, *Terraform*
-- 🐘**Data Engineering**: Kafka, Hadoop, Spark
+---
 
-#### 🌍 Outside of Work:
-When I'm not working with data and technology, I thrive on exploring the world, engaging in sports, and spending time in nature:
+## 🔧 Tech Stack
 
-- 🗺 Travel Enthusiast: I love immersing myself in new cultures and have lived in Netherlands (currently), the U.S., Germany, Estonia, France, and England, while visiting countless other destinations like Mexico, Romania... Planning an adventure? Let me know—I’d love to join!
-- 🚴 Sports & Fitness: Whether cycling, practicing yoga, or trying a new sport, I approach every activity with enthusiasm and an open mind.
-- 🌳 Nature & Animals: I find peace in the countryside and enjoy caring for plants and animals.
+**Data & ML**  
+Python, SQL, Pandas, NumPy, Scikit-learn  
 
---- 
+**MLOps & AI**  
+MLflow, TensorFlow, PyTorch, FastAPI  
 
-Feel free to connect, collaborate, or share ideas—I'm always eager to learn, contribute, and grow alongside like-minded individuals! 🙌
+**Data Engineering**  
+Spark, Kafka, ETL pipelines  
+
+**Cloud & DevOps**  
+Azure, Databricks, Docker, Terraform  
+
+---
+
+## 🎯 Focus
+- Scalable ML systems  
+- Data pipelines & automation  
+- Cloud-based AI infrastructure  
+
+---
+
+## 🌍 Background
+Based in the Netherlands. Experience in international environments across Europe and the US.
+
+---
+
+## 📌 Current Goal
+Contributing to impactful data and AI projects within engineering-driven teams.
+
+---
+
+## 🤝 Let’s Connect
+Open to collaboration, technical discussions, and opportunities in Data Engineering, ML, and AI systems.
