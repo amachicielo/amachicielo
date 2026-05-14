@@ -4,54 +4,69 @@
 - 🌱 I’m currently learning ...
 -->
 
-# 👋 Hi, I’m John G. Amachi Cielo  
-**Data & Machine Learning Engineer | Azure Certified**
+# 👋 Hi, I’m John G. Amachi Cielo
 
-I design and build scalable data and machine learning systems focused on real-world impact.  
-My work covers the full lifecycle: data pipelines, model development, deployment, and monitoring in cloud environments.
+**Cloud & Data Engineer | Azure Certified**
+
+Passionate about cloud infrastructure, data systems, automation, and scalable solutions focused on real-world operational impact.
+
+My background combines cloud technologies, data engineering, system administration, and industrial operations, with hands-on experience in technical environments where reliability, optimization, and problem-solving are essential.
 
 ---
 
 ## 🚀 What I Do
-- Build end-to-end ML systems (from data ingestion to deployment)
-- Develop scalable data pipelines and ETL workflows
-- Apply MLOps practices for production-ready models
-- Design cloud-native solutions on Azure
+
+* Build and maintain cloud-based data solutions
+* Develop ETL workflows and scalable data pipelines
+* Support automation and infrastructure optimization
+* Work with Azure technologies, Docker, and modern data tools
+* Apply practical MLOps and monitoring workflows
 
 ---
 
 ## 🔧 Tech Stack
 
-**Data & ML**  
-Python, SQL, Pandas, NumPy, Scikit-learn  
+### Cloud & Infrastructure
 
-**MLOps & AI**  
-MLflow, TensorFlow, PyTorch, FastAPI  
+Azure, Docker, Terraform, Microsoft 365
 
-**Data Engineering**  
-Spark, Kafka, ETL pipelines  
+### Data Engineering
 
-**Cloud & DevOps**  
-Azure, Databricks, Docker, Terraform  
+Python, SQL, Spark, Kafka, ETL Pipelines
+
+### Data & AI
+
+Pandas, NumPy, Scikit-learn, MLflow, FastAPI
+
+### Systems & Operations
+
+Linux, Git, Automation, Monitoring, Troubleshooting
 
 ---
 
-## 🎯 Focus
-- Scalable ML systems  
-- Data pipelines & automation  
-- Cloud-based AI infrastructure  
+## 🎯 Current Focus
+
+* Cloud Engineering
+* Data Platforms & Automation
+* Infrastructure & Technical Operations
+* Scalable Data Systems
 
 ---
 
 ## 🌍 Background
-Based in the Netherlands. Experience in international environments across Europe and the US.
+
+Currently based in the Netherlands, with experience across international and operational environments in Europe and the US.
+
+Strong interest in combining cloud technologies, automation, and data systems to solve practical business and operational challenges.
 
 ---
 
-## 📌 Current Goal
-Contributing to impactful data and AI projects within engineering-driven teams.
+## 🤝 Let’s Connect
+
+Open to opportunities, collaborations, and technical discussions related to Cloud, Data Engineering, Infrastructure, and Automation.
 
 ---
+
 
 ## 🤝 Let’s Connect
 Open to collaboration, technical discussions, and opportunities in Data Engineering, ML, and AI systems.
