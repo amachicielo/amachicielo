@@ -1,72 +1,64 @@
-<!--
-**amachicielo/amachicielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
+# Hi, I'm John G. Amachi Cielo
 
-# 👋 Hi, I’m John G. Amachi Cielo
+## Cloud & Data Engineer · MLOps · Azure
 
-**Cloud & Data Engineer | Azure Certified**
+I build reliable data and cloud systems that turn operational problems into reproducible, automated solutions. My work combines data engineering, infrastructure as code, machine learning operations, and hands-on systems experience.
 
-Passionate about cloud infrastructure, data systems, automation, and scalable solutions focused on real-world operational impact.
+Based in the Netherlands and open to Cloud Engineering, Data Engineering, and MLOps opportunities across Europe.
 
-My background combines cloud technologies, data engineering, system administration, and industrial operations, with hands-on experience in technical environments where reliability, optimization, and problem-solving are essential.
+## Selected projects
 
----
+### [AI Workforce Scheduler](https://github.com/amachicielo/ai-workforce-scheduler)
 
-## 🚀 What I Do
+An end-to-end workforce and transport scheduling system combining synthetic data generation, absence prediction, constraint optimization with OR-Tools, Docker, and GitHub Actions.
 
-* Build and maintain cloud-based data solutions
-* Develop ETL workflows and scalable data pipelines
-* Support automation and infrastructure optimization
-* Work with Azure technologies, Docker, and modern data tools
-* Apply practical MLOps and monitoring workflows
+**Demonstrates:** Python · optimization · machine learning · CI/CD · Docker
 
----
+### [MLOps Drift Detection Pipeline](https://github.com/amachicielo/End-to-end-MLOps-Drift-Detection-Pipeline)
 
-## 🔧 Tech Stack
+A modular pipeline for model training, experiment tracking, data-drift detection, automated retraining, orchestration, and API inference.
 
-### Cloud & Infrastructure
+**Demonstrates:** MLflow · Evidently · Airflow · FastAPI · Docker
 
-Azure, Docker, Terraform, Microsoft 365
+### [La Baells Reservoir Analysis](https://github.com/amachicielo/la-baells-project)
 
-### Data Engineering
+A tested and containerized Python project for analysing reservoir levels and identifying drought periods from time-series data.
 
-Python, SQL, Spark, Kafka, ETL Pipelines
+**Demonstrates:** pandas · testing · documentation · Docker · data visualization
 
-### Data & AI
+### [Terraform Architecture Lab](https://github.com/amachicielo/Terraform)
 
-Pandas, NumPy, Scikit-learn, MLflow, FastAPI
+Infrastructure-as-code case studies covering highly available applications, disaster recovery, database migration, serverless systems, Kubernetes, and multi-cloud monitoring.
 
-### Systems & Operations
+**Demonstrates:** Terraform · AWS · infrastructure design · automation
 
-Linux, Git, Automation, Monitoring, Troubleshooting
+## Core skills
 
----
+| Area | Tools and technologies |
+| --- | --- |
+| Cloud & infrastructure | Azure, AWS fundamentals, Terraform, Docker, Linux |
+| Data engineering | Python, SQL, Spark, Kafka, ETL pipelines |
+| MLOps & machine learning | Scikit-learn, MLflow, Evidently, Airflow, FastAPI |
+| Delivery & operations | GitHub Actions, testing, monitoring, troubleshooting |
 
-## 🎯 Current Focus
+## What I value
 
-* Cloud Engineering
-* Data Platforms & Automation
-* Infrastructure & Technical Operations
-* Scalable Data Systems
+- Reproducible systems instead of one-off notebooks
+- Automation that removes repetitive operational work
+- Clear documentation and measurable outcomes
+- Practical engineering decisions that balance reliability, cost, and complexity
 
----
+## Currently improving
 
-## 🌍 Background
+- Production-oriented data platforms on Azure
+- Automated model monitoring and retraining
+- Constraint optimization for workforce operations
+- Technical communication through project walkthroughs and video
 
-Currently based in the Netherlands, with experience across international and operational environments in Europe and the US.
+## Connect
 
-Strong interest in combining cloud technologies, automation, and data systems to solve practical business and operational challenges.
+- [YouTube — You Like Code](https://www.youtube.com/@youlikecode)
+- [TikTok — @youlikecode](https://www.tiktok.com/@youlikecode)
+- [Instagram — @youlikecode](https://www.instagram.com/youlikecode)
 
----
-
-## 🤝 Let’s Connect
-
-Open to opportunities, collaborations, and technical discussions related to Cloud, Data Engineering, Infrastructure, and Automation.
-
----
-
-
-## 🤝 Let’s Connect
-Open to collaboration, technical discussions, and opportunities in Data Engineering, ML, and AI systems.
+I am open to professional opportunities, technical collaborations, and conversations about cloud, data engineering, and MLOps.
