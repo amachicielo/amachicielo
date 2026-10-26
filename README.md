@@ -1,6 +1,6 @@
 # Hi, I'm John G. Amachi Cielo
 
-## Cloud & Data Engineer · MLOps · Azure
+## Industrial Operations | Azure Data & AI/ML Platform Engineer
 
 I build reliable data and cloud systems that turn operational problems into reproducible, automated solutions. My work combines data engineering, infrastructure as code, machine learning operations, and hands-on systems experience.
 
