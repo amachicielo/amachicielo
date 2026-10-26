@@ -1,64 +1,77 @@
 # Hi, I'm John G. Amachi Cielo
 
-## Industrial Operations | Azure Data & AI/ML Platform Engineer
+### Data & ML Platform Engineering | Azure | MLOps
 
-I build reliable data and cloud systems that turn operational problems into reproducible, automated solutions. My work combines data engineering, infrastructure as code, machine learning operations, and hands-on systems experience.
+I develop portfolio projects that connect data pipelines, machine learning, and cloud infrastructure with operational problems.
 
-Based in the Netherlands and open to Cloud Engineering, Data Engineering, and MLOps opportunities across Europe.
+My background combines industrial operations, IT support, and an Azure cloud internship. I am interested in how systems behave beyond model training: how data is prepared, workflows are automated, models are served, and failures are detected.
 
-## Selected projects
+Based in the Netherlands · EU citizen · Open to relocation across Europe
 
-### [AI Workforce Scheduler](https://github.com/amachicielo/ai-workforce-scheduler)
+**Seeking opportunities in Data Engineering, Cloud Engineering, and MLOps.**
 
-An end-to-end workforce and transport scheduling system combining synthetic data generation, absence prediction, constraint optimization with OR-Tools, Docker, and GitHub Actions.
-
-**Demonstrates:** Python · optimization · machine learning · CI/CD · Docker
+## Selected engineering projects
 
 ### [MLOps Drift Detection Pipeline](https://github.com/amachicielo/End-to-end-MLOps-Drift-Detection-Pipeline)
 
-A modular pipeline for model training, experiment tracking, data-drift detection, automated retraining, orchestration, and API inference.
+A local MLOps reference project covering model training, experiment tracking, API inference, drift monitoring, and scheduled conditional retraining.
 
-**Demonstrates:** MLflow · Evidently · Airflow · FastAPI · Docker
+- Packages preprocessing and prediction in a reusable model pipeline.
+- Connects MLflow tracking, FastAPI endpoints, and Evidently reports.
+- Includes Airflow orchestration, Docker Compose, and automated tests.
 
-### [La Baells Reservoir Analysis](https://github.com/amachicielo/la-baells-project)
+**Stack:** Python · scikit-learn · MLflow · Evidently · Airflow · FastAPI · Docker
 
-A tested and containerized Python project for analysing reservoir levels and identifying drought periods from time-series data.
+### [AI Workforce Scheduler](https://github.com/amachicielo/ai-workforce-scheduler)
 
-**Demonstrates:** pandas · testing · documentation · Docker · data visualization
+An engineering prototype for workforce and transport planning, connecting synthetic data generation, absence-risk modelling, and constraint optimization.
+
+- Makes intermediate datasets, model results, and scheduling outputs inspectable.
+- Explores assignment constraints with OR-Tools.
+- Uses Docker and GitHub Actions to run checks and publish pipeline artifacts.
+
+**Stack:** Python · scikit-learn · OR-Tools · Docker · GitHub Actions
 
 ### [Terraform Architecture Lab](https://github.com/amachicielo/Terraform)
 
-Infrastructure-as-code case studies covering highly available applications, disaster recovery, database migration, serverless systems, Kubernetes, and multi-cloud monitoring.
+Educational infrastructure-as-code case studies exploring availability, disaster recovery, database migration, deployment strategies, and monitoring.
 
-**Demonstrates:** Terraform · AWS · infrastructure design · automation
+- Documents infrastructure scenarios and architecture decisions.
+- Includes AWS examples and a monitoring scenario involving Azure.
+- Uses GitHub Actions for Terraform formatting checks.
 
-## Core skills
+**Stack:** Terraform · AWS · Azure concepts · Infrastructure as Code
 
-| Area | Tools and technologies |
-| --- | --- |
-| Cloud & infrastructure | Azure, AWS fundamentals, Terraform, Docker, Linux |
-| Data engineering | Python, SQL, Spark, Kafka, ETL pipelines |
-| MLOps & machine learning | Scikit-learn, MLflow, Evidently, Airflow, FastAPI |
-| Delivery & operations | GitHub Actions, testing, monitoring, troubleshooting |
+### [La Baells Reservoir Analysis](https://github.com/amachicielo/la-baells-project)
 
-## What I value
+An academic Python project for analysing reservoir time series and identifying drought periods.
 
-- Reproducible systems instead of one-off notebooks
-- Automation that removes repetitive operational work
-- Clear documentation and measurable outcomes
-- Practical engineering decisions that balance reliability, cost, and complexity
+- Separates data loading, cleaning, and visualization into modules.
+- Includes unit tests, coverage tooling, and generated documentation.
+- Provides containerized execution and a GitHub Actions workflow.
 
-## Currently improving
+**Stack:** Python · pandas · pytest · Docker · GitHub Actions
 
-- Production-oriented data platforms on Azure
-- Automated model monitoring and retraining
-- Constraint optimization for workforce operations
-- Technical communication through project walkthroughs and video
+## Technical foundation
 
-## Connect
+- **Cloud and systems:** Azure, Microsoft Entra ID, Microsoft 365, Azure Storage, IT support.
+- **Data and ML:** Python, SQL, pandas, scikit-learn, data preparation, model evaluation.
+- **Project tooling:** Docker, GitHub Actions, Terraform, MLflow, FastAPI, Airflow, Evidently.
 
-- [YouTube — You Like Code](https://www.youtube.com/@youlikecode)
-- [TikTok — @youlikecode](https://www.tiktok.com/@youlikecode)
-- [Instagram — @youlikecode](https://www.instagram.com/youlikecode)
+## Education and Microsoft credentials
 
-I am open to professional opportunities, technical collaborations, and conversations about cloud, data engineering, and MLOps.
+- Bachelor's degree in Applied Data Science.
+- Master's in Artificial Intelligence (ongoing & online)
+- Microsoft credentials earned include AZ-104, AZ-305, AI-102, DP-100, DP-203, and Applied Skills.
+
+[View my Microsoft credentials](https://learn.microsoft.com/en-us/users/jgac/credentials)
+
+## Current focus
+
+- Predictive maintenance for truck air-pressure systems through my Scania APS academic research.
+- Connecting data preparation, model evaluation, and maintenance decisions with the cost of missed failures.
+- Strengthening Azure data pipelines, deployment workflows, and model monitoring.
+
+My long-term direction is the design and operation of reliable cloud platforms for data and AI.
+
+
